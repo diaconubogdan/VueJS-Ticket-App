@@ -1,4 +1,4 @@
-![alt gif]https://i.imgur.com/qFZnRig.gif)  
+[alt gif](https://i.imgur.com/qFZnRig.gif)  
 Front-end application made only for learning purposes  
 Features:  
 * Create tickets  
